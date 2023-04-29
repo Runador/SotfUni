@@ -1,6 +1,9 @@
 ## Hello :wave:
 
-### Here you can find my resolved tasks from the <span style="color:#ff8d37">Software University</span>:
+### Here you can find my resolved tasks from the
+<span style="color:orange">
+Software University
+</span>
 
 | Module      | Description |
 | :---        |    :----:   |
